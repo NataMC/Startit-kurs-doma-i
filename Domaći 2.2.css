@@ -1,0 +1,30 @@
+img {
+	width: 150px;
+	height: 150px;
+	border: solid;
+	border-image-width: 5px;
+}
+.deo1 {
+	background-color: #A9A9A9;
+	text-align: center;
+	font-size: 18px;
+}
+#pitanje {
+	font-family: Verdana,Tahoma;
+	text-transform: uppercase;
+}
+.deo2 {
+	background-color: #FFD700;
+	border: solid;
+}
+span {
+	color: red;
+	font-weight: bold;
+}
+.deo3 {
+	background-color: #A9A9A9;
+	text-align: center;
+	font-size: 16px;
+	color: blue;
+	font-weight: bold;
+}
